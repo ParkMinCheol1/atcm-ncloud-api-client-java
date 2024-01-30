@@ -1,0 +1,13 @@
+{
+    "DEFAULT": {
+        "API_DOMAIN": "https://fin-ncloud.apigw.fin-ntruss.com",
+        "NETWORKING_API_DOMAIN": "https://globaldns.apigw.fin-ntruss.com",
+        "SECRET_KEY": "vR1m9q2LkV5lh0qZp9k6aOdg6H7Z8ahALRX7rCRt",
+        "ACCESS_KEY": "KjwzxGbUPeOhIRF5Tfx8"
+    },
+    "AI_NAVER": {
+        "API_DOMAIN": "https://naveropenapi.apigw-pub.fin-ntruss.com",
+        "SECRET_KEY": "8K8SxxQwa5fdtS6mTAtS6GAEi9FY13bI3tYi3VeX",
+        "CLIENT_ID": "o1o44gvji8"
+    }
+}
